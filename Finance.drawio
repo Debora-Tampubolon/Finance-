@@ -1,9 +1,41 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Gd3pHVsQw_JMU0TWps1e">
-    <mxGraphModel dx="-710" dy="3318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2024" dy="2537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pwvBuZZOsnlDVYhLp-rC-21" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;dashed=1;fixDash=1;strokeWidth=1.5;lucidId=B4r0PvHGhNl6;" value="" vertex="1">
+          <mxGeometry height="161" width="200" x="5287" y="-375" as="geometry" />
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="Vendor" vertex="1">
+          <mxGeometry height="1110" width="255" x="3633" y="-70" as="geometry">
+            <mxRectangle height="26" width="73" x="3633" y="-70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="System" vertex="1">
+          <mxGeometry height="1110" width="255" x="3888" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="AP Team" vertex="1">
+          <mxGeometry height="1110" width="255" x="4143" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="Tax Team" vertex="1">
+          <mxGeometry height="1110" width="255" x="4398" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="Manager FA" vertex="1">
+          <mxGeometry height="1110" width="255" x="4653" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="Head FA &amp;amp; Tax" vertex="1">
+          <mxGeometry height="1110" width="255" x="4908" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="Finance Team" vertex="1">
+          <mxGeometry height="1110" width="255" x="5163" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="RLXuTL5v1fzAEaj4PqlC-11" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;perimeterSpacing=0;flipH=0;legacyAnchorPoints=0;flipV=0;textShadow=0;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;swimlaneFillColor=none;fontColor=#ffffff;" value="Banking Team" vertex="1">
+          <mxGeometry height="1110" width="255" x="5418" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="pwvBuZZOsnlDVYhLp-rC-144" parent="RLXuTL5v1fzAEaj4PqlC-11" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#dedeff;strokeWidth=2.3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:12.4px;font-style: italic;&quot;&gt;Eksekusi pembayaran daily&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="125" x="65" y="849.5" as="geometry" />
+        </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-1" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#e81313;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=3.8;lucidId=_es01GExpUuN;" value="" vertex="1">
           <mxGeometry height="582" width="837" x="4252" y="-1230" as="geometry" />
         </mxCell>
@@ -52,7 +84,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwvBuZZOsnlDVYhLp-rC-15" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=left;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=d0r0NMTZY~Hc;" value="**automated" vertex="1">
+        <mxCell id="pwvBuZZOsnlDVYhLp-rC-15" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=left;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=d0r0NMTZY~Hc;strokeColor=none;fontColor=light-dark(#ff0000, #ededed);" value="**automated" vertex="1">
           <mxGeometry height="28" width="108" x="3978" y="-265" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-16" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=Q0r0ytR_h2dU;" value="Routing ke flow approval matriks      (AP→Tax→Manager FA→Head FA)" vertex="1">
@@ -70,12 +102,9 @@
           <mxGeometry height="87" width="136" x="5130" y="-362" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-20" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=e4r0UTURqOcE;" value="Posting journal on SAP" vertex="1">
-          <mxGeometry height="87" width="136" x="5331" y="-360" as="geometry" />
+          <mxGeometry height="87" width="136" x="5325" y="-362" as="geometry" />
         </mxCell>
-        <mxCell id="pwvBuZZOsnlDVYhLp-rC-21" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;dashed=1;fixDash=1;strokeWidth=1.5;lucidId=B4r0PvHGhNl6;" value="" vertex="1">
-          <mxGeometry height="161" width="200" x="5297" y="-380" as="geometry" />
-        </mxCell>
-        <mxCell id="pwvBuZZOsnlDVYhLp-rC-22" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=left;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=B4r0IKfnBY.4;" value="**automated" vertex="1">
+        <mxCell id="pwvBuZZOsnlDVYhLp-rC-22" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=left;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=B4r0IKfnBY.4;fontColor=#FF3333;strokeColor=none;" value="**automated" vertex="1">
           <mxGeometry height="28" width="108" x="5333" y="-251" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-23" edge="1" parent="1" source="pwvBuZZOsnlDVYhLp-rC-16" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=l6r0mu5p8hZt;" target="pwvBuZZOsnlDVYhLp-rC-18" value="">
@@ -94,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-26" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#e81313;strokeOpacity=100;fillOpacity=0;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;font-style: italic;&quot;&gt;Eksekusi ini mereka ngapain? (pov web) hanya klik eksekusi (utk push journal)?  riil pembayarannya dilakukan di web/sistem lain kah? atau mau sekalian pakai H2H juga?&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="211" x="5627" y="785" as="geometry" />
+          <mxGeometry height="93" width="211" x="5703" y="784" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-27" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f4d9ff;strokeWidth=1.5;lucidId=ags0.W5k4w9V;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:23.3px;font-weight: bold;&quot;&gt;Module 4: OPS Funding Console (MSA + AI-ERP) &amp; Kas Kecil Web OFR&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:23.3px;font-weight: bold;&quot;&gt;Module 8: Web Kas Kecil &amp; FAA dengan Tax Texting (Kategorisasi Pajak)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="85" width="1789" x="6419" y="-621" as="geometry" />
@@ -354,14 +383,14 @@
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-92" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;image=https://images.lucid.app/images/3a4455b1-bbff-4972-86d4-e49565aca29c/content;imageAspect=0;lucidId=-Ax0_veK_Oqm;" value="" vertex="1">
           <mxGeometry height="97" width="489" x="6517" y="625" as="geometry" />
         </mxCell>
-        <mxCell id="pwvBuZZOsnlDVYhLp-rC-93" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeOpacity=100;fillOpacity=0;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;font-style: italic;&quot;&gt;input master vendor kena pajak atau tidak&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="pwvBuZZOsnlDVYhLp-rC-93" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeOpacity=100;fillOpacity=0;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=3;strokeColor=#FF3333;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;font-style: italic;&quot;&gt;input master vendor kena pajak atau tidak&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="44" width="177" x="4186" y="-154" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-94" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#e81313;strokeOpacity=100;fillOpacity=0;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;font-style: italic;&quot;&gt;penentuan vendor dibayar by tf atau VA by master data&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="211" x="5633" y="925" as="geometry" />
+          <mxGeometry height="93" width="211" x="5709" y="924" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-95" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#e81313;strokeOpacity=100;fillOpacity=0;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;font-style: italic;&quot;&gt;H2H ga langsung otomatis tapi tim banking hanya perlu download sesuai template, upload ke sistem bank, bank kasih feedback lewat email, tim banking upload ke web utk sebagai perintah push journal&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="93" width="211" x="5638" y="1054" as="geometry" />
+          <mxGeometry height="93" width="211" x="5714" y="1053" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-96" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeColor=#e81313;strokeOpacity=100;fillOpacity=0;fillColor=#000000;dashed=1;fixDash=1;dashPattern=3 8;strokeWidth=2.3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;font-style: italic;&quot;&gt;pembagian: badan atau perorangan → jasa (pasti kepotong PPh21) atau dagang&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="92" width="177" x="7421" y="1239" as="geometry" />
@@ -391,7 +420,10 @@
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-104" edge="1" parent="1" source="pwvBuZZOsnlDVYhLp-rC-111" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=10.5;fontStyle=2;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.5;entryPerimeter=0;lucidId=t6CZ_cZ9maB1;" target="pwvBuZZOsnlDVYhLp-rC-101" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="3942" y="389" />
+              <mxPoint x="3942" y="47" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-105" parent="pwvBuZZOsnlDVYhLp-rC-104" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontSize=10.5;" value="No" vertex="1">
@@ -449,7 +481,10 @@
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-120" edge="1" parent="1" source="pwvBuZZOsnlDVYhLp-rC-116" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;fontStyle=1;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.75;entryPerimeter=0;lucidId=ojDZNUuH9FUl;" target="pwvBuZZOsnlDVYhLp-rC-101" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="3924" y="559" />
+              <mxPoint x="3924" y="62" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-121" parent="pwvBuZZOsnlDVYhLp-rC-120" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" value="No" vertex="1">
@@ -513,7 +548,7 @@
           <mxGeometry height="49" width="84" x="4973" y="794" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-136" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#dedeff;strokeWidth=2.3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:12.4px;font-style: italic;&quot;&gt;Jadwalkan pembayaran (dengan sugget jadwal)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78" width="125" x="5192" y="780" as="geometry" />
+          <mxGeometry height="78" width="125" x="5219" y="780" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-137" edge="1" parent="1" source="pwvBuZZOsnlDVYhLp-rC-127" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=6xDZ7AF29tTe;" target="pwvBuZZOsnlDVYhLp-rC-135" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
@@ -546,9 +581,6 @@
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-143" parent="pwvBuZZOsnlDVYhLp-rC-142" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" value="No" vertex="1">
           <mxGeometry relative="1" x="-0.9726181376539142" as="geometry" />
-        </mxCell>
-        <mxCell id="pwvBuZZOsnlDVYhLp-rC-144" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#dedeff;strokeWidth=2.3;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:12.4px;font-style: italic;&quot;&gt;Eksekusi pembayaran daily&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78" width="125" x="5432" y="780" as="geometry" />
         </mxCell>
         <mxCell id="pwvBuZZOsnlDVYhLp-rC-145" parent="1" style="rounded=1;arcSize=20;whiteSpace=wrap;overflow=block;blockSpacing=1;html=1;fontSize=13;spacing=0;strokeOpacity=0;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:12.4px;font-style: italic;&quot;&gt;OCR ekstrak data  (No PO, No GR, No Invoice, Nominal, Tanggal)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="162" x="3962" y="17" as="geometry" />
