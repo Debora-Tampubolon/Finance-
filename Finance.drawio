@@ -652,7 +652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dk2K75Ge8dOTqBYVPNwk" name="FINANCE (Revisi Fix)">
-    <mxGraphModel dx="8136" dy="4124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3677" dy="1473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -708,7 +708,7 @@
           <mxGeometry height="71" width="3278" x="4648" y="1115" as="geometry" />
         </mxCell>
         <mxCell id="C2fqZ9j3rz02J9gq7Ge5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=7;" value="&lt;b&gt;Module 3 : Stock Opname &amp;amp; Bad Stock Console BA System&lt;/b&gt;" vertex="1">
-          <mxGeometry height="71" width="1976" x="8755" y="1113" as="geometry" />
+          <mxGeometry height="71" width="1976" x="8275" y="1115" as="geometry" />
         </mxCell>
         <mxCell id="C2fqZ9j3rz02J9gq7Ge5-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Overview Flowchart" vertex="1">
           <mxGeometry height="30" width="231" x="2774" y="1579" as="geometry" />
@@ -838,10 +838,10 @@
         <mxCell id="uZ0yJWwftU1MbosfauNE-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=none;fontStyle=1" value="PHASE 1" vertex="1">
           <mxGeometry height="41" width="516.96" x="-594.96" y="2089" as="geometry" />
         </mxCell>
-        <mxCell id="ii7kmDg91gS0yWrPUegl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Note:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;area bisa kasih list of invoice (SOA)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi satu invoice hanya di assign ke satu nomor GL&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : H2H masih belum terintegrasi otomatis, web masih hanya sampai ke menyediakan file request sesuai dengan format bank&lt;/li&gt;&lt;li style=&quot;&quot;&gt;membuat 2 tipe flowchart : MSA implement / not implement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="498" x="5589.25" y="2343" as="geometry" />
+        <mxCell id="ii7kmDg91gS0yWrPUegl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Note:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;area bisa kasih list of invoice (SOA)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : satu invoice hanya di assign ke satu nomor GL&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : H2H masih belum terintegrasi otomatis, web masih hanya sampai ke menyediakan file request sesuai dengan format bank&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : MSA belum di implement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="498" x="5589.25" y="2364" as="geometry" />
         </mxCell>
-        <mxCell id="fFvMKOIhx-blqQUydx4T-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Overview Flowchart (Tanpa MSA)" vertex="1">
+        <mxCell id="fFvMKOIhx-blqQUydx4T-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Overview Flowchart" vertex="1">
           <mxGeometry height="30" width="418.5" x="6077.75" y="1609" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-53" edge="1" parent="1" source="fFvMKOIhx-blqQUydx4T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-6" value="">
@@ -1041,7 +1041,7 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="1230" width="3227" x="4667" y="2883" as="geometry" />
         </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Overview Flowchart (Dengan MSA)" vertex="1">
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Activity Diagram" vertex="1">
           <mxGeometry height="30" width="418.5" x="6077.75" y="2899" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-97" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-94" value="">
