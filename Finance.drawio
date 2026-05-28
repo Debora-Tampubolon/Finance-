@@ -652,7 +652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dk2K75Ge8dOTqBYVPNwk" name="FINANCE (Revisi Fix)">
-    <mxGraphModel dx="3677" dy="1473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4140" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -812,7 +812,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B_ZReueiJ82U1P46z8-P-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Payment Execution&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(Generate File Bank Format &amp;gt; Upload to Bank System)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="127" width="132" x="3841" y="1828.5" as="geometry" />
+          <mxGeometry height="127" width="143" x="3841" y="1828.5" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-110" edge="1" parent="1" source="uZ0yJWwftU1MbosfauNE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="B_ZReueiJ82U1P46z8-P-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -839,7 +839,7 @@
           <mxGeometry height="41" width="516.96" x="-594.96" y="2089" as="geometry" />
         </mxCell>
         <mxCell id="ii7kmDg91gS0yWrPUegl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Note:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;area bisa kasih list of invoice (SOA)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : satu invoice hanya di assign ke satu nomor GL&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : H2H masih belum terintegrasi otomatis, web masih hanya sampai ke menyediakan file request sesuai dengan format bank&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : MSA belum di implement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="498" x="5589.25" y="2364" as="geometry" />
+          <mxGeometry height="175" width="498" x="5934" y="2353" as="geometry" />
         </mxCell>
         <mxCell id="fFvMKOIhx-blqQUydx4T-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Overview Flowchart" vertex="1">
           <mxGeometry height="30" width="418.5" x="6077.75" y="1609" as="geometry" />
@@ -857,7 +857,7 @@
           <mxGeometry height="60" width="60" x="4735" y="1914" as="geometry" />
         </mxCell>
         <mxCell id="pc7vdoH-fCqzR4M_6SFG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Console Tax Report in all transaction&lt;/div&gt;" vertex="1">
-          <mxGeometry height="127" width="132" x="3841" y="2007.5" as="geometry" />
+          <mxGeometry height="127" width="132" x="3846.5" y="2007.5" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-51" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-32" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -907,9 +907,6 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Final checking Tax oleh Team Tax&lt;/div&gt;" vertex="1">
           <mxGeometry height="127" width="140" x="6644" y="1881" as="geometry" />
         </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-61" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="l0z1zNZYqHGLhNxUbqXM-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Routing cara pembayaran/&lt;/div&gt;&lt;div style=&quot;&quot;&gt;pencairan&lt;/div&gt;" vertex="1">
           <mxGeometry height="127" width="149" x="6840" y="1881" as="geometry" />
         </mxCell>
@@ -919,29 +916,23 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-17" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Matrix Nominal&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Reimburse&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="189" x="6820" y="1766.5" as="geometry" />
         </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-63" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="l0z1zNZYqHGLhNxUbqXM-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;(if by tf HO)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="47" width="228" x="6800.5" y="2041" as="geometry" />
-        </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-64" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="l0z1zNZYqHGLhNxUbqXM-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Scheduling Payment&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="47" width="228" x="6800.5" y="2115" as="geometry" />
+          <mxGeometry height="47" width="228" x="7046" y="2061" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-65" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="l0z1zNZYqHGLhNxUbqXM-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;Payment Execution&lt;/div&gt;&lt;div&gt;(Generate File Bank Format &amp;gt; Upload to Bank System)&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="79" width="228" x="6800.5" y="2189" as="geometry" />
+          <mxGeometry height="79" width="228" x="7046" y="2135" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-77" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="l0z1zNZYqHGLhNxUbqXM-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Bank feedback status hasil pembayaran&lt;/div&gt;" vertex="1">
-          <mxGeometry height="79" width="228" x="6800.5" y="2294" as="geometry" />
+          <mxGeometry height="54" width="228" x="7046" y="2240" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Checking saldo kas kecil&lt;/div&gt;" vertex="1">
           <mxGeometry height="47" width="228" x="7310" y="1920.5" as="geometry" />
@@ -955,6 +946,11 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-33" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="l0z1zNZYqHGLhNxUbqXM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-113" connectable="0" parent="l0z1zNZYqHGLhNxUbqXM-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(213, 232, 212);&quot;&gt;Yes&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2467" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-34" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="l0z1zNZYqHGLhNxUbqXM-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -963,11 +959,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-117" connectable="0" parent="l0z1zNZYqHGLhNxUbqXM-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 206, 204);&quot;&gt;No&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.9489" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" value="Butuh tambahan dokumen (FP /SKB)?" vertex="1">
           <mxGeometry height="134" width="172" x="5668" y="1877" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-36" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-114" connectable="0" parent="l0z1zNZYqHGLhNxUbqXM-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(213, 232, 212);&quot;&gt;Yes&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3455" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-111" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-24" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 206, 204);&quot;&gt;No&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.16" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-35" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" value="Lewat pemotongan&amp;nbsp;&lt;div&gt;saldo kas kecil area?&lt;/div&gt;" vertex="1">
           <mxGeometry height="134" width="172" x="7074" y="1877" as="geometry" />
@@ -975,8 +986,18 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-40" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="l0z1zNZYqHGLhNxUbqXM-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-116" connectable="0" parent="l0z1zNZYqHGLhNxUbqXM-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(213, 232, 212);&quot;&gt;Yes&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0247" y="-1" as="geometry">
+            <mxPoint x="1" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-41" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="l0z1zNZYqHGLhNxUbqXM-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-115" connectable="0" parent="l0z1zNZYqHGLhNxUbqXM-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 206, 204);&quot;&gt;No&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1261" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-37" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" value="Saldo cukup?" vertex="1">
           <mxGeometry height="134" width="172" x="7338" y="1997.5" as="geometry" />
@@ -1005,14 +1026,8 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-57" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Master Data FPM&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;(histori no FPM yang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;sudah ada)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;(cut off 3 bulan dari&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;waktu berjalan)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="113" width="247.5" x="6087.25" y="1739" as="geometry" />
         </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-78" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="l0z1zNZYqHGLhNxUbqXM-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7424" y="2422" />
-              <mxPoint x="7175" y="2422" />
-            </Array>
-            <mxPoint x="7207.019416360294" y="2434" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-112" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="l0z1zNZYqHGLhNxUbqXM-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Kalkulasi otomatis (pemotongan) saldo kas kecil&lt;/div&gt;" vertex="1">
           <mxGeometry height="47" width="228" x="7310" y="2245" as="geometry" />
@@ -1021,22 +1036,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;Auto Posting Journal SAP&lt;/div&gt;" vertex="1">
-          <mxGeometry height="79" width="228" x="7061" y="2470" as="geometry" />
+          <mxGeometry height="79" width="228" x="7182.5" y="2381.5" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-81" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-68" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-70" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;List tipe transaksi &amp;gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;automate rekomendasi&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;nomor GL&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82" width="210.5" x="6788" y="2468.5" as="geometry" />
+          <mxGeometry height="82" width="210.5" x="6909.5" y="2380" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-71" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="7145" y="2707" as="geometry" />
+          <mxGeometry height="60" width="60" x="7266.5" y="2618.5" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-80" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-71" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;SAP kirim balik nodoc ke web&lt;/div&gt;" vertex="1">
-          <mxGeometry height="79" width="228" x="7061" y="2591" as="geometry" />
+          <mxGeometry height="79" width="228" x="7182.5" y="2502.5" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="1230" width="3227" x="4667" y="2883" as="geometry" />
@@ -1073,7 +1088,7 @@
           <mxGeometry height="50.5" width="50" x="2275" y="2119.25" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-100" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BwVhV-PsXhT6FVHSdECc-1" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(213, 232, 212);&quot;&gt;Yes&lt;/span&gt;">
-          <mxGeometry relative="1" x="-0.2274" as="geometry">
+          <mxGeometry relative="1" x="-0.2241" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
