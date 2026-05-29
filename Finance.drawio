@@ -651,8 +651,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dk2K75Ge8dOTqBYVPNwk" name="FINANCE (Revisi Fix)">
-    <mxGraphModel dx="10020" dy="4124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="dk2K75Ge8dOTqBYVPNwk" name="FINANCE (Revisi)">
+    <mxGraphModel dx="2916" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -731,19 +731,19 @@
         <mxCell id="A3WMPqhIKCejaDavemRd-1" edge="1" parent="1" source="wcn8zd3aKO65nBbpJssi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="C2fqZ9j3rz02J9gq7Ge5-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcn8zd3aKO65nBbpJssi-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Master Data&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vendor&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(nama, tipe item yang&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;di provide&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="wcn8zd3aKO65nBbpJssi-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Master Data&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vendor&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(nama, tipe item yang&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;di provide, jasa/non jasa&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="274" x="1624" y="1665" as="geometry" />
         </mxCell>
         <mxCell id="wcn8zd3aKO65nBbpJssi-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Key Point Digitalisasi:&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Centralized Vendor Portal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;OCR (3 way matching)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Tax Texting &amp;amp; Console Tax Report&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;FPM Validation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Automated Matrix Approval&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Auto-Reject &amp;amp; Notification System&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Console List Scheduled Payment&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Auto categorized GL costing&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Auto MIRO &amp;amp; Push Journal SAP&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="289" width="477" x="2651" y="1228" as="geometry" />
         </mxCell>
-        <mxCell id="-XNbNTQ3GG2zp-EXT_gv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Note:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;vendor bisa kasih list of invoice (SOA)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;all file 3 way matching (PO, GR, Invoice) di upload oleh Vendor&lt;/li&gt;&lt;li style=&quot;&quot;&gt;web hanya menyediakan file list schedule payment (sesuai dengan format bank), tim banking masih akan bekerja manual lewat portal bank (eksternal sistem)&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : &lt;i&gt;satu vendor hanya memiliki satu tipe item yg di provide sehingga hanya memiliki satu tipe pajak dan satu nomor GL&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="-XNbNTQ3GG2zp-EXT_gv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=left;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Note:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;vendor bisa kasih list of invoice (SOA)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;all file 3 way matching : dari vendor (file PO &amp;amp; Invoice)&lt;/li&gt;&lt;li style=&quot;&quot;&gt;web hanya menyediakan file list schedule payment (sesuai dengan format bank), tim banking masih akan bekerja manual lewat portal bank (eksternal sistem)&lt;/li&gt;&lt;li style=&quot;&quot;&gt;asumsi : &lt;i&gt;satu vendor hanya memiliki satu tipe item yg di provide sehingga hanya memiliki satu tipe pajak dan satu nomor GL&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="498" x="2837" y="2093" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-92" edge="1" parent="1" source="8OWCa9OBnICbOcz5SpCC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-87" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8OWCa9OBnICbOcz5SpCC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OCR terhadap PO, GR, Invoice dan automated matching verif (match/not match):&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;tanggal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;nominal (DPP, ...?)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="8OWCa9OBnICbOcz5SpCC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OCR terhadap Invoice dan automated matching verif (match/not match):&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;No PO&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;nominal (DPP, ...?)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="127" width="242" x="1954" y="1828.5" as="geometry" />
         </mxCell>
         <mxCell id="OTFb7HKVOTN0PE31itg3-1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="l0z1zNZYqHGLhNxUbqXM-99">
@@ -880,8 +880,8 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-52" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OCR terhadap Invoice untuk auto fill (hanya suggest &amp;amp; bisa diubah):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;tanggal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;nominal (DPP, PPN, ...?)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;kategori GL (??)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="127" width="253" x="5166" y="1880.5" as="geometry" />
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OCR terhadap Invoice untuk auto fill (hanya suggest &amp;amp; bisa diubah):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;tanggal&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;nominal (DPP, PPN, atau totalan)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;kategori GL (by ekstrak data item)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="273" x="5146" y="1880.5" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-10" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-1">
           <mxGeometry relative="1" as="geometry" />
@@ -964,7 +964,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" value="Butuh tambahan dokumen (FP /SKB)?" vertex="1">
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" value="Butuh tambahan dokumen (FP/SKB)?" vertex="1">
           <mxGeometry height="134" width="172" x="5668" y="1877" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-36" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-27">
@@ -1062,7 +1062,7 @@
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-97" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l0z1zNZYqHGLhNxUbqXM-94" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l0z1zNZYqHGLhNxUbqXM-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Auto-Reject &amp;amp; Send Notification to Vendor&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="l0z1zNZYqHGLhNxUbqXM-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Auto-Reject &amp;amp; Send Notification to Vendor (by email)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="78" width="152" x="2224" y="1997.5" as="geometry" />
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-88" edge="1" parent="1" source="l0z1zNZYqHGLhNxUbqXM-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wAI8Nv8-qmkY_-fjeZmD-1" value="">
@@ -1111,6 +1111,30 @@
         </mxCell>
         <mxCell id="l0z1zNZYqHGLhNxUbqXM-104" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
           <mxGeometry height="50.5" width="50" x="2638.5" y="2117" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-2" edge="1" parent="1" source="b-G-qnvptVC9KsHPy2TY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8OWCa9OBnICbOcz5SpCC-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-1" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Master Data SAP&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;No PO, nominal&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82" width="274" x="1938" y="1665" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="suggest search bar utk GL" vertex="1">
+          <mxGeometry height="60" width="120" x="441" y="1475" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;**coba tambahkan push email notif deadline invoice &amp;amp; FPM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="140" x="2371" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;align=center;" value="&lt;div style=&quot;&quot;&gt;**ada tambahkan vendor mau payment by apa (tf/VA) dan masukin no nyaa&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="140" x="1680" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="module 2 ada 2 menu:&lt;div&gt;- pengajuan kas kecil (nominal beserta list kepentingannya) by file pdf approval sampai ROM (misal)&lt;/div&gt;&lt;div&gt;- realisasi transaksi&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="386" x="640" y="1482" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="1. PKP/Non PKP&lt;div&gt;2. Jasa/Dagang&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note: semua yg PKP harus menyetorkan sertifikat PKP (mandatory), SKB (opsional) &amp;amp; FPM&lt;/div&gt;&lt;div&gt;PKP - Jasa &amp;gt; PPh 23&lt;/div&gt;&lt;div&gt;PKP - Dagang &amp;gt; PPN&lt;/div&gt;&lt;div&gt;Non PKP - Jasa &amp;gt; PPh 21&lt;/div&gt;" vertex="1">
+          <mxGeometry height="158" width="415" x="5271" y="1486" as="geometry" />
+        </mxCell>
+        <mxCell id="b-G-qnvptVC9KsHPy2TY-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Buat master rule tiap transaksi seperti apa, harus masukkan journal apa terhadap GL apa2 aja" vertex="1">
+          <mxGeometry height="63" width="415" x="5271" y="1409" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
