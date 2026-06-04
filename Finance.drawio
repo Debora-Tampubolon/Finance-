@@ -652,7 +652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dk2K75Ge8dOTqBYVPNwk" name="FINANCE (Revisi)">
-    <mxGraphModel dx="3651" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6954" dy="2946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1550,8 +1550,14 @@
         <mxCell id="USnntI8Kxxnr4am7a3AJ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Categorized as&amp;nbsp;&lt;div&gt;Defined by Area / HO Policy&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="140" x="17045" y="2313" as="geometry" />
         </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-28" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="USnntI8Kxxnr4am7a3AJ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Add to Sheet Master Parameter&lt;div&gt;(adjusted by HO)&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="140" x="17217" y="2170.5" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-27" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="One Sheet Updated&amp;nbsp;&lt;div&gt;Master Parameter&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="161" x="17395" y="2185.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
