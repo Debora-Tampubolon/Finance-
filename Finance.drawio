@@ -652,7 +652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dk2K75Ge8dOTqBYVPNwk" name="FINANCE (Revisi)">
-    <mxGraphModel dx="7780" dy="3437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3651" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1480,6 +1480,78 @@
         </mxCell>
         <mxCell id="_ZNuHz7rEiio-fA8yBkJ-132" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Data Stock Masuk&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;(cut off SO sebelumnya s/d&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;mulai SO saat ini)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="294" x="9098.5" y="1647" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-12" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Categorized as&amp;nbsp;&lt;div&gt;Area Cost / HO Cost&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="17044.5" y="1631" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-8" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="17084.5" y="1525" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-7" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-6" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="All GL in FIS&lt;div&gt;(just SM)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="16846" y="1646" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-11" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-13" connectable="0" parent="USnntI8Kxxnr4am7a3AJ-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;background-color: rgb(241, 156, 153);&quot;&gt;NO&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3326" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-15" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-14" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;YES&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Area Cost?" vertex="1">
+          <mxGeometry height="100" width="100" x="17065" y="1767" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-10" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="59" width="59" x="17225.5" y="1787.5" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-23" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Breakdown &amp;amp; List All Parameter Calculation each GL" vertex="1">
+          <mxGeometry height="90" width="140" x="17045" y="1913" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-22" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Categorized as&amp;nbsp;&lt;div&gt;Defined by Area / HO Policy&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="17044.5" y="2038" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-21" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-24" connectable="0" parent="USnntI8Kxxnr4am7a3AJ-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;background-color: rgb(241, 156, 153);&quot;&gt;NO&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2938" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-25" edge="1" parent="1" source="USnntI8Kxxnr4am7a3AJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="USnntI8Kxxnr4am7a3AJ-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-26" connectable="0" parent="USnntI8Kxxnr4am7a3AJ-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;YES&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2025" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Defined by&amp;nbsp;&lt;div&gt;Area?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="17065" y="2165.5" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Categorized as&amp;nbsp;&lt;div&gt;Defined by Area / HO Policy&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="17045" y="2313" as="geometry" />
+        </mxCell>
+        <mxCell id="USnntI8Kxxnr4am7a3AJ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Add to Sheet Master Parameter&lt;div&gt;(adjusted by HO)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="17217" y="2170.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
