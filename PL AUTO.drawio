@@ -1,0 +1,277 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="x1Po5chYv12gjkteV2ex">
+    <mxGraphModel dx="3020" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;strokeColor=#97D077;labelBackgroundColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="214" width="1231" x="-144" y="1715" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;strokeColor=#FF6666;labelBackgroundColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="233" width="1231" x="-144" y="1274" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-11" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-1" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Master Data Parameter&lt;div&gt;&lt;div&gt;by Nasional&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="181" x="-53" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-9" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rST03P_AltcCqnCa1Zj1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Rumus kalkulasi tiap COA" vertex="1">
+          <mxGeometry height="73" width="124.5" x="-24.75" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-12" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rST03P_AltcCqnCa1Zj1-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="152" y="612" />
+              <mxPoint x="152" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Master Data Parameter&lt;div&gt;by Depo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="185" x="-55" y="582" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-13" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Kalkulasi All COA&lt;div&gt;- Sheet SM2&lt;/div&gt;&lt;div&gt;- Sheet SM4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="108" width="189" x="205" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-18" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Penggabungan all COA area &amp;amp; COA HO" vertex="1">
+          <mxGeometry height="108" width="127" x="669" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-14" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Kalkulasi COA&amp;nbsp;&lt;div&gt;SM2 &amp;amp; SM4&lt;div&gt;(all area)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="181" x="441" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-23" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-8" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Budget tiap COA&amp;nbsp;&lt;div&gt;SM1 per area&lt;/div&gt;&lt;div&gt;(Bu Kiki)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="181" x="557" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-30" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-17" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Full FIS&lt;div&gt;(SM1, SM2, SM4)&lt;div&gt;All Area &amp;amp; Nasional&lt;/div&gt;&lt;/div&gt;&lt;div&gt;(dropdown depo &amp;amp; region)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="242" x="881.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-24" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-20" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Budget tiap COA HO&lt;div&gt;(Mba Dhea)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="181" x="727" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-29" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-25" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Adjust Angka PL&amp;nbsp;&lt;div&gt;by Bu Wiwik&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="181" x="1166" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-34" edge="1" parent="1" source="rST03P_AltcCqnCa1Zj1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rST03P_AltcCqnCa1Zj1-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Kalkulasi final" vertex="1">
+          <mxGeometry height="108" width="189" x="1162" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-31" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Kontribusi per area&lt;div&gt;per COA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="181" x="1166" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="rST03P_AltcCqnCa1Zj1-33" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" value="FIS FINAL" vertex="1">
+          <mxGeometry height="78" width="242" x="1411" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-5" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-1" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="List All COA&lt;div&gt;(SM2, SM4, &amp;amp; GA2)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="209" x="313" y="984" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-4" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="397.5" y="902" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-12" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-13" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-14" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Kategorisasi tipe kalkulasi COA" vertex="1">
+          <mxGeometry height="65" width="129.5" x="352.75" y="1086" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-24" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Gs766RzM3w5k_8ivbJEW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-6" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="List COA&lt;div&gt;(Cost Ratio)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="185" x="-49" y="1198" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-25" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Gs766RzM3w5k_8ivbJEW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-8" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="List COA&lt;div&gt;(Forecast)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="185" x="325" y="1195" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-31" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-10" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="List COA&lt;div&gt;(Parameter)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="185" x="773" y="1195" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-32" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Pembuatan master data" vertex="1">
+          <mxGeometry height="65" width="129.5" x="174" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF6666;fontSize=18;" value="&lt;font&gt;&lt;b&gt;MASTER DATA&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="128" x="1106" y="1365.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;strokeColor=#B5739D;labelBackgroundColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="167" width="1231" x="-144" y="1533" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-45" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gs766RzM3w5k_8ivbJEW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Sheet Otomasi Kalkulasi untuk All COA CR &amp;amp; Forecast" vertex="1">
+          <mxGeometry height="98" width="217.88" x="126" y="1558" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#B5739D;fontSize=18;" value="&lt;font&gt;&lt;b&gt;FILE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(181, 115, 157), rgb(166, 109, 145));&quot;&gt;AUTO KALKULASI&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="128" x="1097" y="1589" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-68" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="VIEW FIS FULL&lt;div&gt;(SM2 &amp;amp; SM4)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="129.5" x="454" y="1755.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#009900;fontSize=18;" value="&lt;font&gt;&lt;b&gt;OUTPUT FIS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="128" x="1109" y="1784" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-55" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-26" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="Histori Actual Budget&lt;div&gt;per COA per depo&lt;/div&gt;&lt;div&gt;(&#39;25 &amp;amp; &#39;26)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="237" x="-32" y="1421" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-56" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-28" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=15;" value="Persentase&amp;nbsp;&lt;div&gt;CR &amp;amp; Forecast&lt;/div&gt;" vertex="1">
+          <mxGeometry height="81" width="146" x="281" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-36" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-37" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="866" y="1400" />
+              <mxPoint x="975" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Breakdown cost driver per COA + PIC tiap&lt;div&gt;cost driver&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="156.25" x="787.38" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-33" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" target="Gs766RzM3w5k_8ivbJEW-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="239" y="1398" />
+              <mxPoint x="357" y="1398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-42" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-34" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="Master data ketentuan&lt;div&gt;parameter (by Nasional)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="247" x="573" y="1421" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-43" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gs766RzM3w5k_8ivbJEW-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="1524" />
+              <mxPoint x="851" y="1524" />
+            </Array>
+            <mxPoint x="858.5088147615133" y="1664.4736842105262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-35" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="Master data ketentuan&lt;div&gt;parameter (by Depo)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="219" x="866" y="1418.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-46" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.018;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;" target="Gs766RzM3w5k_8ivbJEW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Sheet Otomasi Kalkulasi untuk All COA Parameter" vertex="1">
+          <mxGeometry height="89" width="185" x="758.5" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#FF3333;" value="Note:&lt;div&gt;- SM1 &amp;amp; GA1 : asumsi semua angka per coa per area dihitung langsung oleh tim bu kiki &amp;gt;&amp;gt; penambahan by angka langsung ke format FIS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Target, discount, HPP,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sampai dengan GP1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(per area) diambil dari data&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Pak Wira&lt;/div&gt;" vertex="1">
+          <mxGeometry height="157" width="295" x="403" y="2492" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-60" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="Gs766RzM3w5k_8ivbJEW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-58" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="Detail data budget&lt;div&gt;per COA &amp;amp; per area&lt;div&gt;SM1 &amp;amp; GA1&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="226" x="89" y="1774" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-61" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="Gs766RzM3w5k_8ivbJEW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-59" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="Detail data budget&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;per area&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TARGET, DISCOUNT,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HPP, sampai GP1&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="77" width="267.75" x="738" y="1765.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" value="Ket:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="549" x="257" y="1939" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Process" vertex="1">
+          <mxGeometry height="47" width="101" x="300" y="1981" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-64" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" value="Data" vertex="1">
+          <mxGeometry height="43" width="111" x="443" y="1983" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-65" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=15;" value="Manual Input" vertex="1">
+          <mxGeometry height="65" width="95" x="594" y="1961" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-66" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="kertas kerja" vertex="1">
+          <mxGeometry height="56" width="56" x="717" y="1965.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-67" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="500.75" y="1881" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-69" edge="1" parent="1" source="Gs766RzM3w5k_8ivbJEW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gs766RzM3w5k_8ivbJEW-51" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519" y="1821" as="sourcePoint" />
+            <mxPoint x="519" y="1877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-51" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="5" vertex="1">
+          <mxGeometry height="44" width="44" x="498.75" y="1809" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-70" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="4" vertex="1">
+          <mxGeometry height="44" width="44" x="829" y="1634" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-71" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="3" vertex="1">
+          <mxGeometry height="44" width="44" x="217" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-72" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="2" vertex="1">
+          <mxGeometry height="44" width="44" x="822" y="1431.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs766RzM3w5k_8ivbJEW-73" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="1" vertex="1">
+          <mxGeometry height="44" width="44" x="214" y="1435" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
