@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="x1Po5chYv12gjkteV2ex">
-    <mxGraphModel dx="1673" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,96 +271,119 @@
         <mxCell id="Gs766RzM3w5k_8ivbJEW-73" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="1" vertex="1">
           <mxGeometry height="44" width="44" x="214" y="1435" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-15" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-12" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-15" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Merger COA Parameter&lt;div&gt;(per COA per depo)&lt;/div&gt;" vertex="1">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Merger COA Parameter&lt;div&gt;(per COA per depo)&lt;/div&gt;" vertex="1">
           <mxGeometry height="67" width="148" x="2527" y="1336.5" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-8" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-2" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-8" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-3" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Input dari div lain&lt;div&gt;(per COA per depo)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="168" x="2517" y="1232" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-3" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="Input dari div lain&lt;div&gt;(per COA per depo)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="194" x="2504" y="1232" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-6" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-5" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-6" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Rules &amp;amp; Master Data&lt;div&gt;(COA hitung sendiri)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="198" x="2114" y="1340" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="Rules &amp;amp; Master Data&lt;div&gt;(COA hitung sendiri)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="216" x="2096" y="1340" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-7" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-2" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-7" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Makro calculate&lt;div&gt;(per COA per depo)&lt;/div&gt;" vertex="1">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Makro calculate&lt;div&gt;(per COA per depo)&lt;/div&gt;" vertex="1">
           <mxGeometry height="67" width="148" x="2337" y="1336.5" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Kak Dika" vertex="1">
-          <mxGeometry height="23" width="591" x="2108" y="1184" as="geometry" />
-        </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Mas Daffa" vertex="1">
-          <mxGeometry height="23" width="1122" x="2723" y="1184" as="geometry" />
-        </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-16" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-13" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-16" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-12" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="All Budget&amp;nbsp;&lt;div&gt;COA Parameter&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="168" x="2720" y="1340" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-12" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="All Budget&amp;nbsp;&lt;div&gt;COA Parameter&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="168" x="2717" y="1340" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-23" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-20" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-49" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="View FIS Temporary Nasional&lt;div&gt;(utk review)&lt;/div&gt;" vertex="1">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="View FIS New Budget Temporary Nasional" vertex="1">
           <mxGeometry height="67" width="148" x="2937" y="1336.5" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-17" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-13" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-17" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Histori Budget All COA&lt;div&gt;per depo&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="168" x="2927" y="1235" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="Histori Budget All COA&lt;div&gt;per depo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="235" x="2893.5" y="1234" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-19" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="Al3U0My3rvAZAlYiJzA_-13" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-19" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-18" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Target RF&lt;div&gt;terbaru&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2888" y="1445" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-18" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="Target RF&lt;div&gt;terbaru&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="2870" y="1473" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-28" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-25" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-28" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="Kalkulasi ke all COA per depo" vertex="1">
-          <mxGeometry height="67" width="148" x="3158" y="1336.5" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="Kalkulasi ke all COA per depo" vertex="1">
+          <mxGeometry height="67" width="148" x="3366" y="1336.5" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-22" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Al3U0My3rvAZAlYiJzA_-13">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-22" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-21" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Input CR &amp;amp;&lt;div&gt;Forecast&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="3024" y="1445" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-21" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="Rule COA&amp;nbsp;&lt;div&gt;CR &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Forecast&lt;/span&gt;&lt;div&gt;(by default)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="142.5" x="3011" y="1473" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-29" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-26" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-29" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-26" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-25" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="View FIS per area&lt;div&gt;(region/depo)&lt;/div&gt;&lt;div&gt;(utk review)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="154" x="3364" y="1340" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-25" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="View FIS per area&lt;div&gt;(region/depo)&lt;/div&gt;&lt;div&gt;(utk review)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="203" x="3557" y="1340" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-31" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Al3U0My3rvAZAlYiJzA_-21">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-33" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-37" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-26" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="Ada yg perlu diubah?" vertex="1">
+          <mxGeometry height="100" width="115" x="3782" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-30" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" value="DBASE FINAL&lt;div&gt;COA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="154" x="3951" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-38" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" target="Al3U0My3rvAZAlYiJzA_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-39" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.559;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="Al3U0My3rvAZAlYiJzA_-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3605" y="1475" />
+              <mxPoint x="3841" y="1553" />
+              <mxPoint x="3841" y="1598" />
+              <mxPoint x="2217" y="1598" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-33" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-30" value="">
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-36" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="COA&lt;div&gt;Parameter?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="115" x="3782" y="1453" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DIKA" vertex="1">
+          <mxGeometry height="67" width="172" x="2433" y="1684" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" value="DAFFAA" vertex="1">
+          <mxGeometry height="67" width="172" x="2433" y="1765.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" value="ALDY &amp;amp; DEBORA" vertex="1">
+          <mxGeometry height="67" width="172" x="2620" y="1684" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="MBA DHEA" vertex="1">
+          <mxGeometry height="67" width="172" x="2620" y="1765.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;MILESTONE&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fase 1:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Memastikan &amp;amp; memaping semua input data per all COA -&amp;gt; paralel makro satu2&lt;/div&gt;&lt;div&gt;- All Budget COA Parameter&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Menggabungkan COA Paramter, CR, &amp;amp; Forecast&lt;/div&gt;&lt;div&gt;- Calculation All COA -&amp;gt; FIS New budget&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- (dari mba dhea) dapat FIS (all version) fix -&amp;gt; calculate ke database per area&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fase 2:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- List COA prioritas yg mau di automate cara calculate nya (by parameter)&lt;/div&gt;&lt;div&gt;- Breakdown parameter per COA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Makro calculate&lt;/div&gt;&lt;div&gt;- Balik ke proses fase 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="538" width="720" x="2925" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-50" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-26" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Ada yg perlu diubah?" vertex="1">
-          <mxGeometry height="100" width="100" x="3556" y="1320" as="geometry" />
-        </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-30" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="DBASE FIX COA&lt;div&gt;(RFXX THNXX)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="154" x="3694" y="1340" as="geometry" />
-        </mxCell>
-        <mxCell id="Al3U0My3rvAZAlYiJzA_-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TO DO&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="2306" y="1770" as="geometry" />
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="Input ke FIS All Version&lt;div&gt;(utk review)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="67" width="148" x="3150" y="1336.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
