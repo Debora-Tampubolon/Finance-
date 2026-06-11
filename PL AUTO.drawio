@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="x1Po5chYv12gjkteV2ex">
-    <mxGraphModel dx="2477" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,7 +323,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Al3U0My3rvAZAlYiJzA_-18" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Target RF&lt;div&gt;terbaru&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2914" y="1445" as="geometry" />
+          <mxGeometry height="60" width="120" x="2888" y="1445" as="geometry" />
         </mxCell>
         <mxCell id="Al3U0My3rvAZAlYiJzA_-28" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-25" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -335,7 +335,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Al3U0My3rvAZAlYiJzA_-21" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Input CR &amp;amp;&lt;div&gt;Forecast&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="3062" y="1445" as="geometry" />
+          <mxGeometry height="60" width="120" x="3024" y="1445" as="geometry" />
         </mxCell>
         <mxCell id="Al3U0My3rvAZAlYiJzA_-29" edge="1" parent="1" source="Al3U0My3rvAZAlYiJzA_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Al3U0My3rvAZAlYiJzA_-26" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -358,6 +358,9 @@
         </mxCell>
         <mxCell id="Al3U0My3rvAZAlYiJzA_-30" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="DBASE FIX COA&lt;div&gt;(RFXX THNXX)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="154" x="3694" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="Al3U0My3rvAZAlYiJzA_-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TO DO&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="2306" y="1770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
