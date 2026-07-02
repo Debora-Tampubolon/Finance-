@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="x1Po5chYv12gjkteV2ex">
-    <mxGraphModel dx="3935" dy="1378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="-407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,7 +336,7 @@
         <mxCell id="QRdnY25SfNpbh1K6MGMF-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Objectives:&lt;/font&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="277" width="392" x="1212" y="1417" as="geometry" />
         </mxCell>
-        <mxCell id="QRdnY25SfNpbh1K6MGMF-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="KONDISI INPUT:&lt;div&gt;&lt;ol&gt;&lt;li&gt;KSNI &amp;amp; Simba (++)&lt;/li&gt;&lt;li&gt;Penjualan (--)&lt;/li&gt;&lt;li&gt;Intra (++)&lt;/li&gt;&lt;li&gt;Intra (--)&lt;/li&gt;&lt;li&gt;Retur (++)&lt;/li&gt;&lt;li&gt;Pemusnahan BS (--)&lt;/li&gt;&lt;li&gt;Adjust Stock Opname (???)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QRdnY25SfNpbh1K6MGMF-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="KONDISI INPUT:&lt;div&gt;&lt;ol&gt;&lt;li&gt;KSNI &amp;amp; Simba (++)&lt;/li&gt;&lt;li&gt;Penjualan (--)&lt;/li&gt;&lt;li&gt;Intra (++)&lt;/li&gt;&lt;li&gt;Intra (--)&lt;/li&gt;&lt;li&gt;Retur (++)&lt;/li&gt;&lt;li&gt;Pemusnahan BS (--)&lt;/li&gt;&lt;li&gt;Adjust Stock Opname (???)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="152" width="284" x="602" y="1547" as="geometry" />
         </mxCell>
         <mxCell id="QRdnY25SfNpbh1K6MGMF-89" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="SISTEM (EDS/SAP)" vertex="1">
