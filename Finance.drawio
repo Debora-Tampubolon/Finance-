@@ -3210,7 +3210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_l9GvYE446XIUZ-ffxEd" name="NEW UPDATE">
-    <mxGraphModel dx="4134" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3996" dy="311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3621,22 +3621,22 @@
           <mxGeometry height="36" width="261" x="677" y="3538" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-184" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=7;fontSize=20;fontStyle=1" value="&lt;font&gt;RULES&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="698" x="963" y="3538" as="geometry" />
+          <mxGeometry height="36" width="698" x="948" y="3538" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-185" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;Long Job Title&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt; Untuk pencarian untuk pemilihan approver&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Short Job Title&lt;/b&gt; --&amp;gt; Untuk disematkan sebagai tanda approver di dokumen&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="71" width="702" x="963" y="3601" as="geometry" />
+          <mxGeometry height="71" width="702" x="948" y="3601" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontStyle=1" value="&lt;p&gt;CREATING DOCUMENT&lt;/p&gt;" vertex="1">
           <mxGeometry height="163" width="262" x="678" y="3680" as="geometry" />
         </mxCell>
-        <mxCell id="3Un_lRaNcOWrT6mgxn75-187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;verticalAlign=middle;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;Template Doc&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt; Header, Footer, dan Background body dokumen harus mengikuti template BA &amp;amp; Surkom yang sudah ada selama ini&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Position Doc Information&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Automate Open Greeting&amp;nbsp;&lt;/b&gt;--&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;List of Approver&lt;/b&gt; --&amp;gt; Create / Upload&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lampiran&lt;/b&gt; --&amp;gt; Jenisnya bisa berupa gambar &amp;amp; file ; jika lampiran berupa file, file tersebut selalu ter-attach ketika kita membuka dokumennya dan bisa di download&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="164" width="702" x="963" y="3680" as="geometry" />
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;verticalAlign=middle;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;Template Doc&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt; Header, Footer, dan Background body dokumen harus mengikuti template BA &amp;amp; Surkom yang sudah ada selama ini&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Position Doc Information&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Automate Open Greeting&amp;nbsp;&lt;/b&gt;--&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;List of Approver&lt;/b&gt; --&amp;gt; Create / Upload (buat dokumen / pustaka surkom)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lampiran&lt;/b&gt; --&amp;gt; Jenisnya bisa berupa gambar &amp;amp; file ; jika lampiran berupa file, file tersebut selalu ter-attach ketika kita membuka dokumennya dan bisa di download&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="164" width="702" x="948" y="3680" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontStyle=1" value="&lt;p&gt;FLOW OF APPROVAL&lt;/p&gt;" vertex="1">
-          <mxGeometry height="71" width="262" x="678" y="3853" as="geometry" />
+          <mxGeometry height="71" width="262" x="678" y="3852" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;Order of Approval &lt;/b&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="71" width="702" x="963" y="3853" as="geometry" />
+          <mxGeometry height="71" width="702" x="948" y="3852" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=7;fontSize=22;fontStyle=1" value="&lt;font&gt;ERD&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="1181" x="1790" y="3441" as="geometry" />
