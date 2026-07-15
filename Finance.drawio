@@ -3210,12 +3210,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_l9GvYE446XIUZ-ffxEd" name="NEW UPDATE">
-    <mxGraphModel dx="1734" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3553" dy="1475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="D0zuELZ2aI4mT60_4iEK-9" parent="1" style="swimlane;fontSize=20;startSize=38;fillColor=#ffe6cc;strokeColor=#d79b00;" value="ROLE 1 APPROVER" vertex="1">
-          <mxGeometry height="1794" width="417" x="1246" y="774" as="geometry" />
+          <mxGeometry height="2573" width="417" x="1689" y="738" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-77" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-76" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -3359,6 +3359,96 @@
         <mxCell id="3Un_lRaNcOWrT6mgxn75-131" parent="D0zuELZ2aI4mT60_4iEK-9" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="29" width="29" x="313.5" y="1691" as="geometry" />
         </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-158" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-149" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-148" parent="D0zuELZ2aI4mT60_4iEK-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Menu Kotak Persetujuan" vertex="1">
+          <mxGeometry height="53" width="119.5" x="148.75" y="1826" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-159" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-150" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-149" parent="D0zuELZ2aI4mT60_4iEK-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Review dokumen" vertex="1">
+          <mxGeometry height="53" width="119.5" x="148.75" y="1906" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-160" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="3Un_lRaNcOWrT6mgxn75-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-163" connectable="0" parent="3Un_lRaNcOWrT6mgxn75-160" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;" value="REJECT" vertex="1">
+          <mxGeometry relative="1" x="-0.4497" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-161" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="3Un_lRaNcOWrT6mgxn75-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-162" connectable="0" parent="3Un_lRaNcOWrT6mgxn75-161" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;" value="APPROVE" vertex="1">
+          <mxGeometry relative="1" x="-0.6355" y="-2" as="geometry">
+            <mxPoint x="8" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-150" parent="D0zuELZ2aI4mT60_4iEK-9" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Approve/&lt;div&gt;Reject?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="158.5" y="1986" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-151" parent="D0zuELZ2aI4mT60_4iEK-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Notifikasi Kembali ke Maker" vertex="1">
+          <mxGeometry height="53" width="119.5" x="21" y="2102" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-164" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-153" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-152" parent="D0zuELZ2aI4mT60_4iEK-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Pengajuan ke Next Approver" vertex="1">
+          <mxGeometry height="53" width="119.5" x="270" y="2102" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-165" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Un_lRaNcOWrT6mgxn75-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-166" connectable="0" parent="3Un_lRaNcOWrT6mgxn75-165" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.8087" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-167" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-154" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-168" connectable="0" parent="3Un_lRaNcOWrT6mgxn75-167" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.406" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-153" parent="D0zuELZ2aI4mT60_4iEK-9" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="All Approver approve?" vertex="1">
+          <mxGeometry height="100" width="100" x="279.75" y="2184" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-169" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-155" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-170" connectable="0" parent="3Un_lRaNcOWrT6mgxn75-169" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.2593" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-172" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-171" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-173" connectable="0" parent="3Un_lRaNcOWrT6mgxn75-172" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.2494" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-154" parent="D0zuELZ2aI4mT60_4iEK-9" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Public?" vertex="1">
+          <mxGeometry height="100" width="100" x="279.75" y="2319" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-155" parent="D0zuELZ2aI4mT60_4iEK-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Masuk ke menu Pustaka Surkom" vertex="1">
+          <mxGeometry height="53" width="119.5" x="270" y="2451" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-171" parent="D0zuELZ2aI4mT60_4iEK-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Hanya diakses di Dashboard Personal&lt;div&gt;(Maker + Approver)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="53" width="119.5" x="117" y="2342.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-174" parent="D0zuELZ2aI4mT60_4iEK-9" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="29" width="29" x="315.5" y="2527" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-176" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="3Un_lRaNcOWrT6mgxn75-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="68rOpy3F-5Trv5_LjkM0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=7;fontSize=16;fontStyle=1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;BA/SURKOM SUBMISSION&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="2433" x="238" y="508" as="geometry" />
         </mxCell>
@@ -3366,7 +3456,7 @@
           <mxGeometry height="60" width="2433" x="238" y="615" as="geometry" />
         </mxCell>
         <mxCell id="D0zuELZ2aI4mT60_4iEK-4" parent="1" style="swimlane;fontSize=20;startSize=38;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DOC MAKER" vertex="1">
-          <mxGeometry height="1552" width="434" x="395" y="774" as="geometry" />
+          <mxGeometry height="2573" width="434" x="838" y="738" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-9" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" source="D0zuELZ2aI4mT60_4iEK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SwsCh6A9u9YIqmcp6U_Y-1">
           <mxGeometry relative="1" as="geometry" />
@@ -3425,7 +3515,7 @@
         <mxCell id="3Un_lRaNcOWrT6mgxn75-20" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" source="3Un_lRaNcOWrT6mgxn75-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Un_lRaNcOWrT6mgxn75-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Un_lRaNcOWrT6mgxn75-16" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Isi Lampiran (opsional)" vertex="1">
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-16" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Isi Lampiran (opsional)&lt;div&gt;(gambar dan/atau file)&lt;/div&gt;" vertex="1">
           <mxGeometry height="56" width="169" x="20" y="582" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-24" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" source="3Un_lRaNcOWrT6mgxn75-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-18" value="">
@@ -3443,14 +3533,32 @@
         <mxCell id="3Un_lRaNcOWrT6mgxn75-78" parent="D0zuELZ2aI4mT60_4iEK-4" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="29" width="29" x="214" y="54" as="geometry" />
         </mxCell>
-        <mxCell id="3Un_lRaNcOWrT6mgxn75-99" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Revisi dokumen" vertex="1">
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-99" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Revisi &amp;amp; Resubmit&lt;div&gt;Dokumen&lt;/div&gt;" vertex="1">
           <mxGeometry height="56" width="169" x="144" y="1056" as="geometry" />
         </mxCell>
-        <mxCell id="3Un_lRaNcOWrT6mgxn75-133" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Revisi dokumen" vertex="1">
-          <mxGeometry height="56" width="169" x="144" y="1202" as="geometry" />
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-137" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" source="3Un_lRaNcOWrT6mgxn75-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-136" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-135" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Menu Pustaka Surkom" vertex="1">
+          <mxGeometry height="53" width="119.5" x="157.25" y="1658" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-139" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" source="3Un_lRaNcOWrT6mgxn75-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-138" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-136" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Upload Surkom" vertex="1">
+          <mxGeometry height="53" width="119.5" x="157.25" y="1743" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-138" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Pilih approver" vertex="1">
+          <mxGeometry height="53" width="119.5" x="157.25" y="1826" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-145" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" source="3Un_lRaNcOWrT6mgxn75-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-142" parent="D0zuELZ2aI4mT60_4iEK-4" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="29" width="29" x="202.5" y="1603" as="geometry" />
         </mxCell>
         <mxCell id="D0zuELZ2aI4mT60_4iEK-7" parent="1" style="swimlane;fontSize=20;startSize=38;fillColor=#d5e8d4;strokeColor=#82b366;" value="SISTEM" vertex="1">
-          <mxGeometry height="1508" width="417" x="829" y="774" as="geometry" />
+          <mxGeometry height="2573" width="417" x="1272" y="738" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-73" parent="D0zuELZ2aI4mT60_4iEK-7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Automate Create Doc&lt;div&gt;(content + template)&lt;/div&gt;" vertex="1">
           <mxGeometry height="77" width="166" x="125.5" y="746.5" as="geometry" />
@@ -3465,7 +3573,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=7;fontSize=22;fontStyle=1" value="&lt;font&gt;RULES&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="2433" x="238" y="2689" as="geometry" />
+          <mxGeometry height="60" width="2433" x="227" y="3375" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-85" edge="1" parent="1" source="3Un_lRaNcOWrT6mgxn75-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3Un_lRaNcOWrT6mgxn75-84">
           <mxGeometry relative="1" as="geometry" />
@@ -3481,6 +3589,30 @@
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-122" edge="1" parent="1" source="3Un_lRaNcOWrT6mgxn75-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="3Un_lRaNcOWrT6mgxn75-116">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-134" edge="1" parent="1" source="3Un_lRaNcOWrT6mgxn75-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;jumpStyle=arc;strokeColor=#B5739D;" target="3Un_lRaNcOWrT6mgxn75-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1066" y="1699" />
+              <mxPoint x="1728" y="1699" />
+              <mxPoint x="1728" y="1452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-157" edge="1" parent="1" source="3Un_lRaNcOWrT6mgxn75-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;" value="&lt;p&gt;can you review &amp;amp; criticize the whole system based on this user story? If you found something that better to deploy, you can change it by ask me first&lt;br&gt;This is the whole user story:&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;We will have master data for all employee (Name, Employee ID, Full Job Title, Short Job Title)&lt;/li&gt;&lt;br&gt;&lt;li&gt;We&#39;re gonna supply the system with blank template of BA &amp;amp; Surkom, with predefined header&lt;/li&gt;&lt;br&gt;&lt;li&gt;Whoever wants to make BA will login to their account (with Employee ID and password)&lt;/li&gt;&lt;br&gt;&lt;li&gt;They move to menu Document Submission, and there&#39;s part for making document from scratch or upload the PDF they&#39;ve done before&lt;/li&gt;&lt;br&gt;&lt;li&gt;For part of making from scratch, they will select either BA / Surkom, and after that there will be a dropdown, what kind of BA/Surkom they want to make&lt;/li&gt;&lt;br&gt;&lt;li&gt;Especially for Surkom, there&#39;s option either this document is New Surkom or Update Surkom&lt;/li&gt;&lt;br&gt;&lt;li&gt;Then they select document date, fill the city, fill the doc number, fill the perihal&lt;/li&gt;&lt;br&gt;&lt;li&gt;Then they will fill by typing the body of document, they can type text and add image too&lt;/li&gt;&lt;br&gt;&lt;li&gt;They can adding the Lampiran with image, they can add how many lampiran they want to attach&lt;/li&gt;&lt;br&gt;&lt;li&gt;After that, for the sign in the bottom of document, the maker (Dibuat oleh) will auto fill with their Name &amp;amp; Short Job Title&lt;/li&gt;&lt;br&gt;&lt;li&gt;They can add how much sign role they want, and chose whoever they want to sign/ask for approval (can chose multiple person for one sign role) (the list from employee master data)&lt;/li&gt;&lt;br&gt;&lt;li&gt;Example, I (Debora - BA Sales &amp;amp; Ops) make a BA submission, so in document it&#39;s automate to add Dibuat oleh : Debora -  BA Sales &amp;amp; Ops. Then I want to add 2 role of sign. First Diketahui oleh : Gina - Ass. Mgr. Finance, Aldy - Mgr. Ops. Then, second, Disetujui oleh : Evi - Head FAD, Fachrul - VP Domestic&lt;/li&gt;&lt;br&gt;&lt;li&gt;Then, I can click for preview, system will process all my input before, and make one full document, with predefine template, and put other parts to their position. For reference, I gave some BA document that ever made manually&lt;/li&gt;&lt;br&gt;&lt;li&gt;Btw, for the upload option before, after they upload the PDF, they directly chose &amp;amp; edit for the sign role&lt;/li&gt;&lt;br&gt;&lt;li&gt;After confirming whole document is right, I can send it to make a automate flow matrix approval based on whoever I chose for sign role. Start from the first person I chose on the first role, than move to next person on same role, till that role finish and move to next role at first person, and move like previous pattern&lt;/li&gt;&lt;br&gt;&lt;li&gt;The person that have turn to make approval, will get the notification on their Approval Inbox menu. But  the notification must also be received via the person&#39;s company email, for extra notif, incase they don&#39;t often look for the web&lt;/li&gt;&lt;br&gt;&lt;li&gt;The person that want to give approval, can choose BA that they want to give approval&lt;/li&gt;&lt;br&gt;&lt;li&gt;The pop up or list of waiting approval, give slight information about the document too, like what type of document, no doc, doc date, and the Perihal&lt;/li&gt;&lt;br&gt;&lt;li&gt;After they chose what BA they want to proceed, they can preview the whole document&lt;/li&gt;&lt;br&gt;&lt;li&gt;After they reviewed it, they will choose Approved button or Reject button&lt;/li&gt;&lt;br&gt;&lt;li&gt;After they click one of the button, there&#39;s kind of text box if they wanna leave notes (apply to both approved &amp;amp; reject button)&lt;/li&gt;&lt;br&gt;&lt;li&gt;Either it&#39;s approved or rejected, in bottom of the document (position of signs) there will be just a list of the persons that give the approval. So rather than, the draw sign, there just be the list the name, long job title, and the notes if they approved or not&lt;/li&gt;&lt;br&gt;&lt;li&gt;Every time they click the approve or reject button, there will be a pop up if they&#39;re sure or not&lt;/li&gt;&lt;br&gt;&lt;li&gt;And, they can click preview too&lt;/li&gt;&lt;br&gt;&lt;li&gt;There will be notification for next person and that next person will do same things&lt;/li&gt;&lt;br&gt;&lt;li&gt;Like that until everyone approves&lt;/li&gt;&lt;br&gt;&lt;li&gt;After all approval done, there will be notification on the maker that their document is full approved. But during the approval process there&#39;s a dashboard for approval stage each their doc&lt;/li&gt;&lt;br&gt;&lt;li&gt;The approval status process for all documents that require signature of the person, will appear on their dashboard but no notification will appear. The only notification that appears is for documents that are their turn to approve.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Especially for Surkom, after all approval done and all of that is approved, the maker can chose wheter the document is public or not&lt;/li&gt;&lt;br&gt;&lt;li&gt;If they chose it&#39;s public, the document will be stored in other menu &quot;Surkom Library&quot; and can be access for all people that have an account. And everyone can download that doc&lt;/li&gt;&lt;br&gt;&lt;li&gt;But if it&#39;s not for public, the document just can be previewed &amp;amp; downloaded by the maker and all the person in approval list&lt;/li&gt;&lt;br&gt;&lt;li&gt;Further note: if there&#39;s one  person that reject the document, the approval process will stop, and there will be a notification for the maker, and they can revise the document and the approval looping will start back from the first person&lt;/li&gt;&lt;br&gt;&lt;li&gt;There will be another menu as well for the dashboard, where they can monitor the approval process of their own doc or their approved/rejected doc&lt;/li&gt;&lt;br&gt;&lt;li&gt;Another note: I attached some of BA examples for you can imagine the each parts position in the whole document&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="1146" width="1403" x="-98" y="3534" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;p&gt;okee, revisi2 di server lokal dulu&lt;br/&gt;ini ada beberapa notes yg perlu kamu revisi:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;dokumen yg masuk ke kita sebagai approver, akan tetap masuk ke dashboard, jadi bukan cuma dokumen yg kita buat aja yang masuk dashboard&lt;/li&gt;&lt;br/&gt;&lt;li&gt;menu &quot;dokumen saya&quot; yg ada di side menu masuk aja sebagai bagian dari bagian dashboard, tapi ada tombol  option di dashboard : All, dokumen saya, dokumen me as approver (pikirkan lagi kata-kata yang bagus nya)&lt;/li&gt;&lt;br/&gt;&lt;li&gt;bentukan approvernya cuma list ke bawah aja, ga usah di stack ke samping. misal:&lt;br/&gt;Diketahui oleh:&lt;br/&gt;Gina - Ass Mgr Acc --- approved (nnti ada tanda ini jika dia approve atau tidak)&lt;br/&gt;Aldy - Mgr Ops&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;Disetujui oleh :&lt;br/&gt;Evi - Head of FAD&lt;br/&gt;Fachrul - VP Domestic&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;Saat memilih approver, jangan di jabarkan semua list nya, tapi harus by dropdown&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Saat kita melihat dokumen2 yang ada di dashboard (baik yg di dokumen saya ataupun dokumen yg saya sebagai approver) kita bisa lihat preview dokumentnya dan bisa download. Sekarang kan di bagian detailnya kita cuma bisa liat perjalanan status approvalnya aja&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Di pembuatan dokumen kan kita bisa menambahkan berapapun sign role, nah utk semua sign role selain sign role terakhir, semua orang yg dipilih akan dapat notifikasi dan bisa mereview/approval dalam waktu yg sama. Misal aku buat dokumen dan punya 3 sign role. Sign role 1 punya approver 1, approver 2. Sign role 2 punya approver 3, approver 4, approver 5. Dan sign role 3 punya approver 6 &amp;amp; approver 7. Waktu aku submit, dokumen itu akan masuk ke kotak persetujuan semua approver yg ada di sign role 1, secara bersamaan, jadi tidak usah saling tunggu-tungguan. Setelah semua approver role 1 sudah approved, masuk ke kotak persetujuan approver sign role 2 secara bersamaan juga. Kalau sudah semua approved, baru masuk ke persetujuan approver di role 3 tapi bertahap dari approver yg pertama (approver 6) baru ke approver 7.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;⁠Di menu pustaka surkom, ada opsi upload. Jadi surkom2 yang sudah ada selama ini, dan tidak dibuat di sistem ini, tapi mau di publish/direkap di sistem web ini. Siapapun boleh upload surkom, tapi tetap ada pilihan publish atau tidak. Kalau publish dia akan masuk ke pustaka surkom. Kalau tidak publish/private dia hanya akan masuk ke dashboard list dokumen saya. Tapi waktu dia mau mengupload, ada satu approval yg harus dilalui, sama seperti membuat dokumen, dia memilih siapa yg mengapprove, bisa lebih dari 1 approver, tapi sign role nya cuma satu aja, yaitu menyetujui untuk di publish. Supaya tidak semua orang dengan asal bisa menambahkan dokumen sesuka hatinya&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Perbaiki design webnya jadi lebih bagus dan cantik (buat tema webnya merah tapi tidak norak)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="831" width="801" x="1501" y="3566" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;p&gt;Mantapp, sudah amannn&lt;br/&gt;Tapi ada hal yg perlu direvisi lagi :&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;Dibagian buat dokumen lewat upload, masih ada bagian 2 yaitu informasi dokumen, bagian ini dihapus aja. Jadi dia hanya menerima file pdf, dan langsung menambahkan jalur persetujuannya di dokumen itu&lt;/li&gt;&lt;br/&gt;&lt;li&gt;⁠Di bagian buat dokumen dari awal, lampirannya bukan cuma gambar aja, tapi bisa terima file juga utk di attach, yg nanti bisa di download juga oleh si pembuat atau approver atau di pustaka surkom (kalau dia surkom yg di publish). Kalau lampirannya berupa file&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Utk yg maker juga masih belum bisa nambahin orang sebagai maker juga, karna walaupun by sistem yg create dokumen itu cuma satu orang, tapi harus bisa nambahin orang utk di state sebagai pembuat juga&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="299" width="801" x="2368" y="3566" as="geometry" />
+        </mxCell>
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-180" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;p&gt;Notes revisi:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;&lt;p&gt;Jadi sebenarnya, di perusahaan ini, tiap karyawan punya grade nya masing-masing. Grade itu berurutan dari paling rendah ke tinggi, sebagai berikut :  1, 2A, 2B, 2C, 3A, 3B, 3C, 4A, 4B, 4C, 5A, 5B, 5C, 6A. Utk sekarang di bagian data karyawan tolong tambahkan informasi Grade nya masing-masing. Utk Debora 4A, Gina 4C, Aldy 5A, Evi 5C, Fachrul 6A&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;&lt;p&gt;Grade2 itu berfungsi untuk menentukan urutan &amp;amp; flow approval dokumen. Jadi list approver dimulai dari urutan grade lebih rendah ke lebih tinggi. Artinya grade yg lebih rendah lebih dulu mereview dokumen baru ke grade yg lebih tinggi. Tapi ini tidak mengubah rule yang utk semua sign role (kecuali sign role terakhir) akan bisa di review bersamaan atau pengajuan utk approve akan bersamaan utk org2 di role yg sama. Dan utk sign role terakhir akan kamu pastikan sesuai dengan urutan grade atau tidak. Artinya pengajuan approve akan diurutkan dari grade rendah ke tinggi (khusus sign role terakhir)&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;&lt;p&gt;Utk bagian upload surkom di pustaka surkom, tidak usah ada bagian ini (yg digambar pertama). Jadi ga usah diminta informasi2 dokumennya, dan utk yg approver nya itu juga ga usah disematkan di dokumen. Itu hanya sebagai gate dokumen itu bisa masuk ke sistem. Dan khusus utk bagian ini, approvernya harus punya grade di atas yg submit dokumen itu.&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;&lt;p&gt;Di hasil dokumen yg dibuat juga jadi hilang yg Kepada Yth:, dan list approver nyaa. Dan tagging PT Pinus Merah Abadi seperti sebelumnya (di gambar kedua). Tambahkan lagi bagian itu, tapi bagian ini list approvernya ditulis dari atas ke bawah, dari grade paling tinggi ke grade paling rendah&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="567" width="801" x="2368" y="3882" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
