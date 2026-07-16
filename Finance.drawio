@@ -3207,11 +3207,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_l9GvYE446XIUZ-ffxEd" name="NEW UPDATE">
-    <mxGraphModel dx="4376" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4638" dy="459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D0zuELZ2aI4mT60_4iEK-9" parent="1" style="swimlane;fontSize=20;startSize=38;fillColor=#ffe6cc;strokeColor=#d79b00;" value="ROLE 1 APPROVER" vertex="1">
+        <mxCell id="D0zuELZ2aI4mT60_4iEK-9" parent="1" style="swimlane;fontSize=20;startSize=38;fillColor=#ffe6cc;strokeColor=#d79b00;" value="APPROVER" vertex="1">
           <mxGeometry height="2573" width="417" x="1996" y="738" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-77" edge="1" parent="D0zuELZ2aI4mT60_4iEK-9" source="3Un_lRaNcOWrT6mgxn75-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Un_lRaNcOWrT6mgxn75-76" value="">
@@ -3498,7 +3498,7 @@
         <mxCell id="3Un_lRaNcOWrT6mgxn75-3" parent="D0zuELZ2aI4mT60_4iEK-4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Upload File PDF" vertex="1">
           <mxGeometry height="53" width="119.5" x="298" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="3Un_lRaNcOWrT6mgxn75-14" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" source="3Un_lRaNcOWrT6mgxn75-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-14" edge="1" parent="D0zuELZ2aI4mT60_4iEK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355.757575757576" y="535" as="targetPoint" />
           </mxGeometry>
@@ -3624,22 +3624,25 @@
           <mxGeometry height="71" width="702" x="948" y="3581" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontStyle=1" value="&lt;p&gt;CREATING DOCUMENT&lt;/p&gt;" vertex="1">
-          <mxGeometry height="163" width="262" x="678" y="3660" as="geometry" />
+          <mxGeometry height="193" width="262" x="678" y="3660" as="geometry" />
         </mxCell>
-        <mxCell id="3Un_lRaNcOWrT6mgxn75-187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;verticalAlign=middle;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;Template Doc&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt; Header, Footer, dan Background body dokumen harus mengikuti template BA &amp;amp; Surkom yang sudah ada selama ini&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Position Doc Information&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Automate Open Greeting&amp;nbsp;&lt;/b&gt;--&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;List of Approver&lt;/b&gt; --&amp;gt; Create / Upload (buat dokumen / pustaka surkom)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lampiran&lt;/b&gt; --&amp;gt; Jenisnya bisa berupa gambar &amp;amp; file ; jika lampiran berupa file, file tersebut selalu ter-attach ketika kita membuka dokumennya dan bisa di download&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="164" width="702" x="948" y="3660" as="geometry" />
+        <mxCell id="3Un_lRaNcOWrT6mgxn75-187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;verticalAlign=middle;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;Template Doc&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt; Header, Footer, dan Background body dokumen harus mengikuti template BA &amp;amp; Surkom yang sudah ada selama ini&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Position Doc Information&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;--&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Additional Tagging based on Specific Type of Doc&lt;/b&gt; --&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Automate Open Greeting&amp;nbsp;&lt;/b&gt;--&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;List of Approver&lt;/b&gt; --&amp;gt; Create / Upload (buat dokumen / pustaka surkom)&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lampiran&lt;/b&gt; --&amp;gt; Jenisnya bisa berupa gambar &amp;amp; file ; jika lampiran berupa file, file tersebut selalu ter-attach ketika kita membuka dokumennya dan bisa di download&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="195" width="702" x="948" y="3660" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontStyle=1" value="&lt;p&gt;FLOW OF APPROVAL&lt;/p&gt;" vertex="1">
-          <mxGeometry height="71" width="262" x="678" y="3832" as="geometry" />
+          <mxGeometry height="71" width="262" x="678" y="3862" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;Order of Approval &lt;/b&gt;--&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="71" width="702" x="948" y="3832" as="geometry" />
+          <mxGeometry height="71" width="702" x="948" y="3862" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=7;fontSize=22;fontStyle=1" value="&lt;font&gt;ERD&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="1181" x="1790" y="3441" as="geometry" />
         </mxCell>
         <mxCell id="3Un_lRaNcOWrT6mgxn75-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;ul&gt;&lt;li&gt;&lt;p&gt;Notes revisi:&lt;/p&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;Tanda merah di sidebar itu kan menunjukkan menu mana yg lagi dibuka, kenapa di menu dashboard selalu ada tanda merah itu?&lt;/li&gt;&lt;br&gt;&lt;li&gt;Saat pemilihan approver atau penambahan maker, jangan cuma buat dropdown, tapi buat list dropdown yg ada button search nya, jadi kita bisa search dari nama atau dari job title nya. Dan untuk saat pencarian buat listnya menggunakan long job title, tapi saat disematkan di dokumen baru menggunakan short job title&lt;/li&gt;&lt;br&gt;&lt;li&gt;Saat membuat dokumen, setelah kita memilih tipe dokumen antara BA atau Surkom, kan kita memilih sub tipe dokumen. Nah jadi kita akan buat grouping sub tipe dokumen jadi grouping BA atau grouping Surkom. Jadi saat kita pilih tipe dokumennya BA, maka yg masuk ke list sub tipe hanya tipe2 BA, begitu juga utk yg Surkom. Dan saat milih buat dia list dropdown dengan button search, jadi user bisa search jenis BA atau jenis Surkom yg mau dia buat.  Utk sekarang sub-tipe group BA : Merger Depo, Open Period, Pengajuan Cetak Faktur, Pengalihan Dana, Lain-Lain. Sub-tipe group Surkom : Setting Promo, Skema Insentif GT, Skema Insentif MT, Pemberitahuan Eror Sistem, Serah Terima, Lain-Lain. Tapi list ini nnti akan di maintain selanjutnya&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="280" width="801" x="-669" y="4509" as="geometry" />
+        </mxCell>
+        <mxCell id="mo3xxqWL13vUuL4UvGSS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;DATA TABLE&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Employee&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Document&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Document type&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Document Revision&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;-&amp;nbsp; Sign Role&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Lampiran&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Notification&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Sign role assigne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Approval step&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="257" width="268.5" x="2029.5" y="3569" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
