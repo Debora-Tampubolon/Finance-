@@ -3207,7 +3207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_l9GvYE446XIUZ-ffxEd" name="NEW UPDATE">
-    <mxGraphModel dx="4245" dy="459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7135" dy="2178" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3643,60 +3643,6 @@
         </mxCell>
         <mxCell id="mo3xxqWL13vUuL4UvGSS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;align=left;spacingLeft=10;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;b&gt;DATA TABLE&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Employee&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Document&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Document type&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Document Revision&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;-&amp;nbsp; Sign Role&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Lampiran&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Notification&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Sign role assigne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;- Approval step&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="257" width="268.5" x="2029.5" y="3569" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="939" width="635" x="2593" y="3547" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;perimeterSpacing=0;" value="" vertex="1">
-          <mxGeometry height="89.5" width="150" x="2610" y="4155" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Diketahui Oleh:" vertex="1">
-          <mxGeometry height="30" width="99" x="2610" y="4132" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;perimeterSpacing=0;" value="" vertex="1">
-          <mxGeometry height="88.5" width="150" x="2610" y="4272" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;perimeterSpacing=0;" value="" vertex="1">
-          <mxGeometry height="86.5" width="150" x="2610" y="4387" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0.5;perimeterSpacing=0;" value="" vertex="1">
-          <mxGeometry height="86.5" width="150" x="2764" y="4387" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Diperiksa Oleh:" vertex="1">
-          <mxGeometry height="30" width="99" x="2610" y="4248" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Disetujui Oleh:" vertex="1">
-          <mxGeometry height="30" width="99" x="2610" y="4363" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=1;" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;6 Juni 2026 &lt;font style=&quot;font-size: 8px; line-height: 90%;&quot;&gt;13.02.30&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="70.5" x="2649.5" y="4160" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Gina - Ass. Mgr. Acc" vertex="1">
-          <mxGeometry height="30" width="117.75" x="2625.88" y="4187" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Menyetujui" vertex="1">
-          <mxGeometry height="19" width="117.75" x="2625.88" y="4217" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=1;" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;6 Juni 2026 &lt;font style=&quot;font-size: 8px; line-height: 90%;&quot;&gt;17.13.43&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="70.5" x="2649.75" y="4274.75" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Aldy - Mgr. Ops" vertex="1">
-          <mxGeometry height="30" width="117.75" x="2626.13" y="4301.75" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Menyetujui" vertex="1">
-          <mxGeometry height="19" width="117.75" x="2626.13" y="4331.75" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=1;" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;7 Juni 2026 &lt;font style=&quot;font-size: 8px; line-height: 90%;&quot;&gt;11.03.03&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="70.5" x="2649.75" y="4388.75" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Evi - Head FAD" vertex="1">
-          <mxGeometry height="30" width="117.75" x="2626.13" y="4415.75" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Menolak" vertex="1">
-          <mxGeometry height="19" width="117.75" x="2626.13" y="4445.75" as="geometry" />
-        </mxCell>
-        <mxCell id="YSM5UyoQzTBIVieXrCfe-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Fachrul - VP Domestic" vertex="1">
-          <mxGeometry height="30" width="129.88" x="2774.12" y="4414.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
