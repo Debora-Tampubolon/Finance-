@@ -4730,11 +4730,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AP VENDOR PORTAL" id="tbZCbmE6Ndn-JadglrCj">
-    <mxGraphModel dx="1142" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1069" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7vpPqory3hK05caoWOY4-0" />
         <mxCell id="7vpPqory3hK05caoWOY4-1" parent="7vpPqory3hK05caoWOY4-0" />
-        <mxCell id="7vpPqory3hK05caoWOY4-2" parent="7vpPqory3hK05caoWOY4-1" style="swimlane;fontSize=20;startSize=38;fillColor=#ffe6cc;strokeColor=#d79b00;" value="APPROVER" vertex="1">
+        <mxCell id="7vpPqory3hK05caoWOY4-2" parent="7vpPqory3hK05caoWOY4-1" style="swimlane;fontSize=20;startSize=38;fillColor=#ffe6cc;strokeColor=#d79b00;" value="AP TEAM" vertex="1">
           <mxGeometry height="2573" width="417" x="1996" y="738" as="geometry" />
         </mxCell>
         <mxCell id="7vpPqory3hK05caoWOY4-69" parent="7vpPqory3hK05caoWOY4-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=7;fontSize=16;fontStyle=1" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;AP VENDOR PORTAL&lt;/span&gt;" vertex="1">
@@ -5038,6 +5038,12 @@
         </mxCell>
         <mxCell id="NZO1O-aoR_ylh6I3BdMl-65" parent="7vpPqory3hK05caoWOY4-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Master rule tiap transaksi harus memasukkan journal apa terhadap GL apa-apa saja&lt;/span&gt;" vertex="1">
           <mxGeometry height="143" width="188" x="5568.75" y="1623.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VHp30DbqMn18WB3pGW4W-0" parent="7vpPqory3hK05caoWOY4-1" style="swimlane;fontSize=20;startSize=38;fillColor=#ffe6cc;strokeColor=#d79b00;" value="TAX TEAM" vertex="1">
+          <mxGeometry height="2573" width="417" x="2413" y="738" as="geometry" />
+        </mxCell>
+        <mxCell id="VHp30DbqMn18WB3pGW4W-1" parent="7vpPqory3hK05caoWOY4-1" style="swimlane;fontSize=20;startSize=38;fillColor=#ffe6cc;strokeColor=#d79b00;" value="TAX TEAM" vertex="1">
+          <mxGeometry height="2573" width="417" x="2830" y="738" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
