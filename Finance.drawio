@@ -4730,7 +4730,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AP VENDOR PORTAL" id="tbZCbmE6Ndn-JadglrCj">
-    <mxGraphModel dx="1228" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7vpPqory3hK05caoWOY4-0" />
         <mxCell id="7vpPqory3hK05caoWOY4-1" parent="7vpPqory3hK05caoWOY4-0" />
@@ -4743,7 +4743,7 @@
         <mxCell id="7vpPqory3hK05caoWOY4-70" parent="7vpPqory3hK05caoWOY4-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=7;fontSize=22;fontStyle=1" value="&lt;font&gt;ACTIVITY DIAGRAM&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="2433" x="545" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="7vpPqory3hK05caoWOY4-71" parent="7vpPqory3hK05caoWOY4-1" style="swimlane;fontSize=20;startSize=38;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DOC MAKER" vertex="1">
+        <mxCell id="7vpPqory3hK05caoWOY4-71" parent="7vpPqory3hK05caoWOY4-1" style="swimlane;fontSize=20;startSize=38;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="VENDOR" vertex="1">
           <mxGeometry height="2573" width="434" x="1145" y="738" as="geometry" />
         </mxCell>
         <mxCell id="7vpPqory3hK05caoWOY4-72" edge="1" parent="7vpPqory3hK05caoWOY4-71" source="7vpPqory3hK05caoWOY4-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7vpPqory3hK05caoWOY4-75">
