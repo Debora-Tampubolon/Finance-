@@ -3942,7 +3942,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AP VENDOR PORTAL" id="tbZCbmE6Ndn-JadglrCj">
-    <mxGraphModel dx="224" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="91" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7vpPqory3hK05caoWOY4-0" />
         <mxCell id="7vpPqory3hK05caoWOY4-1" parent="7vpPqory3hK05caoWOY4-0" />
@@ -4236,9 +4236,6 @@
         <mxCell id="lEscRoCBlTKnfVO_M6R9-2" parent="7vpPqory3hK05caoWOY4-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="User Submitter login" vertex="1">
           <mxGeometry height="82" width="124" x="4991" y="2380.5" as="geometry" />
         </mxCell>
-        <mxCell id="lEscRoCBlTKnfVO_M6R9-3" parent="7vpPqory3hK05caoWOY4-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" value="Match &amp;amp;&amp;nbsp;&lt;div&gt;Valid?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82" width="124" x="5962" y="2380.5" as="geometry" />
-        </mxCell>
         <mxCell id="lEscRoCBlTKnfVO_M6R9-18" edge="1" parent="7vpPqory3hK05caoWOY4-1" source="lEscRoCBlTKnfVO_M6R9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lEscRoCBlTKnfVO_M6R9-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4254,7 +4251,7 @@
         <mxCell id="lEscRoCBlTKnfVO_M6R9-23" edge="1" parent="7vpPqory3hK05caoWOY4-1" source="lEscRoCBlTKnfVO_M6R9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lEscRoCBlTKnfVO_M6R9-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lEscRoCBlTKnfVO_M6R9-11" parent="7vpPqory3hK05caoWOY4-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="3-way match" vertex="1">
+        <mxCell id="lEscRoCBlTKnfVO_M6R9-11" parent="7vpPqory3hK05caoWOY4-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="3-way match&lt;div&gt;(per invoice)&lt;/div&gt;" vertex="1">
           <mxGeometry height="82" width="124" x="5650" y="2380.5" as="geometry" />
         </mxCell>
         <mxCell id="lEscRoCBlTKnfVO_M6R9-26" edge="1" parent="7vpPqory3hK05caoWOY4-1" source="lEscRoCBlTKnfVO_M6R9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lEscRoCBlTKnfVO_M6R9-25" value="">
@@ -4270,9 +4267,6 @@
         </mxCell>
         <mxCell id="lEscRoCBlTKnfVO_M6R9-13" parent="7vpPqory3hK05caoWOY4-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="OCR (only file invoices &amp;amp; FP)" vertex="1">
           <mxGeometry height="82" width="124" x="5340" y="2380.5" as="geometry" />
-        </mxCell>
-        <mxCell id="lEscRoCBlTKnfVO_M6R9-33" edge="1" parent="7vpPqory3hK05caoWOY4-1" source="lEscRoCBlTKnfVO_M6R9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lEscRoCBlTKnfVO_M6R9-3" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lEscRoCBlTKnfVO_M6R9-21" parent="7vpPqory3hK05caoWOY4-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" value="FPM Checking" vertex="1">
           <mxGeometry height="82" width="124" x="5806" y="2380.5" as="geometry" />
